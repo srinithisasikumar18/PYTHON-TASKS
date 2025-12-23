@@ -1,3 +1,6 @@
+
+# Shuffle the Array
+
 nums=[2,5,1,3,4,7,6,3,6,9,2,3] 
 final_list=[]
 if len(nums)%2!=0:

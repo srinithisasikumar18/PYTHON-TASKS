@@ -1,3 +1,6 @@
+
+# Longest Subarray with Equal 0's and 1's
+
 nums = [1, 1, 0, 0, 1] 
 new_nums=[] 
 sum_=0

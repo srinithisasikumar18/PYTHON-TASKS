@@ -78,8 +78,7 @@ n=int(input("enter total customers: "))
 for i in range(1,n+1):
     cus=[]
     le=(int(input(f"enter the length of {i}  customer: ")))
-    for j in range(le):
-            
+    for j in range(le):         
       items=int(input(f"enter the {i} items prices: "))
       cus.append(items)
       li.append(cus)
